@@ -1,0 +1,117 @@
+{
+  "identity": {
+    "name": "Encorins",
+    "barTitle": "(ENCORINS)",
+    "terminalUser": "encorins",
+    "domain": "encorins.pages.dev",
+    "tagline": "Building Games, Music Apps & Web Projects",
+    "github": "Atixshay",
+    "storagePrefix": "encorins",
+    "primaryLink": {
+      "label": "github",
+      "url": "https://github.com/Atixshay"
+    }
+  },
+  "about": {
+    "bio": "Atishay Prasad Sahu, a.k.a. Encorins. Founder of Arct Development and co-owner of Lovemate, a 20k-member Discord community. Student and full-stack and Android developer working with React, Next.js, Node.js, MongoDB, MySQL, Kotlin, Java and Python.",
+    "extra": "Student \u00b7 Class 11 PCM \u00b7 Jharkhand, India \u00b7 Discord ID 1311949452411408457"
+  },
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/Atixshay"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/atixshh/"
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.com/users/1311949452411408457"
+    },
+    {
+      "label": "Lovemate",
+      "url": "https://discord.gg/jg8QSQGMGX"
+    },
+    {
+      "label": "Arct",
+      "url": "https://arctdevelopments.pages.dev"
+    },
+    {
+      "label": "Carnage",
+      "url": "https://carnagedeathmetal.vercel.app"
+    },
+    {
+      "label": "KatMusic",
+      "url": "https://katmusic.pages.dev"
+    }
+  ],
+  "work": [
+    {
+      "when": "Ongoing",
+      "title": "Founder & Developer",
+      "org": "Arct Development",
+      "where": "Open source \u00b7 Remote",
+      "desc": "Founded Arct Development, an open-source team building apps including KatMusic.",
+      "url": "https://arctdevelopments.pages.dev"
+    },
+    {
+      "when": "Ongoing",
+      "title": "Co-owner",
+      "org": "Lovemate",
+      "where": "Discord \u00b7 20k members",
+      "desc": "Co-running Lovemate, a Discord community of 20,000 members.",
+      "url": "https://discord.gg/jg8QSQGMGX"
+    },
+    {
+      "when": "Ongoing",
+      "title": "Student",
+      "org": "Class 11 \u00b7 PCM",
+      "where": "Jharkhand, India",
+      "desc": "Studying Physics, Chemistry and Maths while building apps, games and web projects."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Carnage: Death Metal",
+      "tag": "Browser Game \u00b7 Mobile",
+      "desc": "A landscape, touch-controlled fighting game with a death-metal guitar theme, playable right in the browser.",
+      "long": "Carnage: Death Metal is a fullscreen browser game made for phones held sideways. It features touch controls for dashing, strumming and attacking, a super move, and a five-string guitar HUD (E A D G C).",
+      "shots": [],
+      "stack": [
+        "JavaScript",
+        "HTML5 Canvas",
+        "CSS",
+        "Vercel"
+      ],
+      "url": "https://carnagedeathmetal.vercel.app"
+    },
+    {
+      "name": "KatMusic",
+      "tag": "Music Player \u00b7 Android & Desktop",
+      "desc": "A YouTube Music player for Android, Windows, macOS and Linux with Listen Together, synced lyrics, offline downloads and shareable KatMusic Codes.",
+      "long": "KatMusic is a free, open-source music player with word-synced lyrics, a native C++ audio engine with parametric EQ, Listen Together rooms with QR invites, offline downloads and two interface styles, Classic and Modern. The Android app is built in Kotlin with Jetpack Compose, and the desktop apps use Flutter. An Arct Development project.",
+      "shots": [],
+      "stack": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Flutter",
+        "Media3",
+        "C++ / Oboe"
+      ],
+      "url": "https://katmusic.pages.dev"
+    }
+  ],
+  "talks": [],
+  "wallRepos": [],
+  "siteStack": [
+    {
+      "name": "Vanilla JS",
+      "via": "zero-build frontend"
+    },
+    {
+      "name": "Canvas 2D",
+      "via": "intro + contribution ink"
+    }
+  ]
+}

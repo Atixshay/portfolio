@@ -1,0 +1,25 @@
+{
+ "account": "Atixshay",
+ "followers": null,
+ "profile": "https://github.com/Atixshay",
+ "stars": {
+  "total": null,
+  "own": null,
+  "marketplace": null,
+  "repositoryCount": null,
+  "scope": "Awaiting live GitHub fetch",
+  "repositories": []
+ },
+ "contributions": {
+  "from": "2026-01-01",
+  "to": "2026-11-26",
+  "year": 2026,
+  "total": null,
+  "source": "Not fetched \u2014 sample data removed",
+  "days": []
+ },
+ "sources": [
+  "Profile identity; live statistics not fetched"
+ ],
+ "fetchedAt": "2026-11-25T09:11:39.158Z"
+}
